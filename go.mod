@@ -1,4 +1,4 @@
-module github.com/PhantomSecurityGroup/go-donut
+module github.com/PhantomSecurityGroup/go-donuts
 
 go 1.16
 
