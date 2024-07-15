@@ -7,7 +7,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/github.com/PhantomSecurityGroup/go-donuts/donut"
+	"github.com/PhantomSecurityGroup/go-donuts/donut"
 	"github.com/akamensky/argparse"
 )
 
